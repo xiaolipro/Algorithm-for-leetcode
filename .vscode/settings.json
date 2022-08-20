@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "bitset": "cpp",
+    "coroutine": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "memory": "cpp",
+    "optional": "cpp",
+    "string_view": "cpp",
+    "stacktrace": "cpp",
+    "system_error": "cpp",
+    "typeindex": "cpp",
+    "variant": "cpp",
+    "unordered_set": "cpp"
+  }
+}

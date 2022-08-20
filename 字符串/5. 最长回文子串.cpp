@@ -20,6 +20,8 @@ int main()
   string s;
   cin >> s;
 
+  // 中心拓展法，时间复杂度O(N^2)
+
   // "a"
   string res = s.substr(0, 1);
 
